@@ -107,9 +107,10 @@ body{
     margin-bottom: 1.4%;
     font-size: 17px;
     text-decoration: none;
+    text-align: center;
     background-color: yellow;
-    width: 7%;
-    padding: 10px 30px;
+    width: 10%;
+    padding: 10px 15px;
     border-radius: 8px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
