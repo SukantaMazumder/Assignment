@@ -1,0 +1,196 @@
+body{
+    margin: 100px;
+}
+.welcome-portion{
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    width: 50%;
+    float: left;
+}
+
+.welcome-section{
+    height: 400px;
+}
+
+.welcome-portion img{
+    width: 50%;
+}
+
+.about-section{
+    height : 400px;
+}
+.about-portion{
+    width: 55%;
+    float: left;
+}
+.about-portion img{
+    width : 47%;
+}
+
+.project-section{
+    height: 550px;
+    background-color:rgba(206, 206, 218, 0.157);
+}
+.project-section-customize
+{
+    margin-top: 1%;
+    width : 80%;
+    margin-left: 10.5%;
+    margin-right: 50%;
+
+}
+
+.project-portion-left{
+    height: 285px;
+    width: 25%;
+    float: left;
+    margin: 2%;
+    padding: 2%;
+    box-shadow: 10px 10px 20px rgb(219, 213, 213);
+    border-radius: 15px;
+    background-color: white;
+}
+
+.project-portion-middle{
+    height: 285px;
+    width: 25%;
+    float: left;
+    margin: 2%;
+    padding: 2%;
+    box-shadow: 10px 10px 20px rgb(219, 213, 213);
+    border-radius: 15px;
+    background-color: white;
+}
+
+.project-portion-right{
+    height: 285px;
+    width: 25%;
+    float: left;
+    margin: 2%;
+    padding: 2%;
+    box-shadow: 10px 10px 20px rgb(219, 213, 213);
+    border-radius: 15px;
+    background-color: white;
+}
+.project-portion-left img{
+    width: 100%;
+}
+.project-portion-middle img{
+    width: 100%;
+}
+.project-portion-right img{
+    width: 100%;
+}
+
+.inquiry{
+    height: 250px;
+}
+.inquiry-portion{
+    position: relative;
+    max-width: 1150px;
+    margin-top: 10%;
+    margin-left: 23%;;
+}
+
+
+.inquiry-portion .inquiry-container{
+    position: absolute;
+    bottom: 20%;
+    color: white;
+    width: 100%;
+    padding-left: 55px;
+    padding-bottom: 21px;;
+}
+
+#inquiry-chat{
+    background-image: linear-gradient(45deg, rgba(207, 26, 26, 0.918), rgba(255, 99, 71, 0.726));
+    margin-left: 40%;
+    margin-bottom: 1.4%;
+    font-size: 17px;
+    text-decoration: none;
+    background-color: yellow;
+    width: 7%;
+    padding: 10px 30px;
+    border-radius: 8px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.regular-text{
+    font-family: 'Tajawal', sans-serif;
+}
+
+h1{
+    font-size: 50px;
+    font-weight: 600;
+    margin: 0;
+}
+
+h2{
+    font-size: 40px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    margin: 0;
+}
+
+h3{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900;
+}
+.button-customize{
+    text-decoration: none;;
+    background-image: linear-gradient(45deg, rgb(67, 143, 194), rgba(255, 99, 71, 0.726));
+    padding:10px 30px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+
+.cv-button-customize{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, rgb(67, 143, 194), rgba(255, 99, 71, 0.726));
+    color: white;
+    padding: 10px 30px;
+    display: inline-block;
+    border-radius: 5px;
+    font-size: 15px;
+}
+#download{
+    padding-left: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#working-project{
+    padding-top: 5%;
+    text-align: center;
+}
+
+
+#inquiry-text{
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+.name-highlight{
+    color: rgb(54, 86, 119);
+}
+
+#stay-connected{
+    margin:0;
+    text-align: center;
+    font-family: 'Cuprum', sans-serif;
+    color :rgba(7, 28, 218, 0.548);
+    padding-bottom: 15px;
+}
+
+#email{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 28px;
+}
+
+footer{
+    padding-top: 2%;
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Tajawal', sans-serif;
+}
